@@ -3,10 +3,7 @@
 </div>
 <!--<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSZkqosu7r5tyX6aB_zcmXkZtVZJE24gssX0E-jo3pVGx-Xr1JIZBRVAf8q5Jp2OqIoaUV4bQO7kkUgKJ9ga3UjGy7YszDjlCQy6JEKYDFKwzQl8Elgh59mdgUC1Ne9OUivdyOjYJU8h8rwjA5g7AQ_jB8aKvXJQpPjIDe1_PsD2wVbNlnPj4_EDOXRU/s16000/Banner%20para%20Linkedin%20Analista%20Sistemas%20Moderno%20Negro.gif"/>-->
     
- [![General badge](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=badge&logoColor=black)](https://scardons.github.io/Portafolio/)
- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardona-1a27511a1/)
- [![General badge](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@santigrama)
- [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamsantiagostar)
+
  
 
 ## Sobre mí
