@@ -9,10 +9,9 @@
 ## Sobre mí
 
 - ⭐ Autodidacta. 
-- ☕ Junior Java,Spring boot, php, docker, kubernetes micr
+- ☕ Junior Java,Spring boot, php, docker, kubernetes microservices, javascript, node, express, react
 - 💻 Bilingue.
 - 🧑‍🎓 Desarrollador de Softrare .
-- 🧑‍🏫 Creador de contenido.
 <br>
 
 ## LENGUAJES
