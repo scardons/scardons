@@ -60,27 +60,27 @@
 
 <br>
 
-## Proyectos Destacados
+## Proyecto Destacado
 
 <table>
-  <td width="50%">
-    <h3 align="center">Punto de venta</h3>
+  <td width="100%">
+    <h3 align="center">API REST con Tipos Estáticos (TypeScript)</h3>
     <div align="center">
-      <a href="https://github.com/dainercortes/challenge-one-foro-alura" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="200" alt="Java Project">
+      <a href="https://github.com/scardons/API-REST-con-tipos-estaticos" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="80px" alt="TypeScript Logo" />
       </a>
       <p>
-        <a href="https://github.com/dainercortes/challenge-one-foro-alura" target="_blank">
+        <a href="https://github.com/scardons/API-REST-con-tipos-estaticos" target="_blank">
           <img src="https://img.shields.io/badge/Repositorio-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="https://www.linkedin.com/posts/dainercortes_challengeoneforoalura5-oraclenexteducation-activity-7112600856079843328-lLVX?utm_source=share&utm_medium=member_desktop" target="_blank">
-          <img src="https://img.shields.io/badge/-Video-green?style=for-the-badge&color=blue">
-        </a>
       </p>
-      <p>Punto de venta donde el cliente puede realizar ventas, inventario, creación de clientes y resumen de ventas.</p>
+      <p>
+        API REST desarrollada con Express y TypeScript, implementando Clean Architecture, JWT, Redis, MySQL, validaciones, Swagger y pruebas unitarias.
+      </p>
     </div>
   </td>
 </table>
+
 
 <br>
 
