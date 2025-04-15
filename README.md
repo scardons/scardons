@@ -64,22 +64,27 @@
 
 <table>
   <td width="100%">
-    <h3 align="center">API REST con Tipos Estáticos (TypeScript)</h3>
+    <h3 align="center">Empresa Logística - Backend con Clean Architecture</h3>
     <div align="center">
-      <a href="https://github.com/scardons/API-REST-con-tipos-estaticos" target="_blank">
+      <a href="https://github.com/scardons/EmpresaLogistica" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="80px" alt="TypeScript Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="80px" alt="MySQL Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="80px" alt="Docker Logo" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="80px" alt="Express Logo" />
+        <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" height="80px" alt="Swagger Logo" />
       </a>
       <p>
-        <a href="https://github.com/scardons/API-REST-con-tipos-estaticos" target="_blank">
+        <a href="https://github.com/scardons/EmpresaLogistica" target="_blank">
           <img src="https://img.shields.io/badge/Repositorio-blue?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
       <p>
-        API REST desarrollada con Express y TypeScript, implementando Clean Architecture, JWT, Redis, MySQL, validaciones, Swagger y pruebas unitarias.
+        API REST para una empresa logística desarrollada con TypeScript, Express, MySQL, Redis y Docker, implementando Clean Architecture, autenticación con JWT, documentación con Swagger y pruebas con Jest.
       </p>
     </div>
   </td>
 </table>
+
 
 
 <br>
