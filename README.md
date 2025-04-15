@@ -5,9 +5,11 @@
 ## Sobre mí
 
 - ⭐ Autodidacta.  
-- ☕ Junior Java, Spring Boot, PHP, Docker, Kubernetes, Microservices, JavaScript, Node, Express, React.  
+- ☕ PHP, Docker, Kubernetes, Microservices, JavaScript, Node, Express, React.  
 - 💻 Bilingüe.  
 - 🧑‍🎓 Desarrollador de Software.  
+- 🚀 Apasionado por crear aplicaciones escalables y de alto rendimiento.
+- 📚 Siempre aprendiendo y explorando nuevas tecnologías.
 <br>
 
 ## LENGUAJES
