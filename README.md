@@ -17,7 +17,7 @@
 ## LENGUAJES
 
 <div>
-    <img width='50px'src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg'>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
     <img width='60px'src='https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg'>
     <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg'>
     <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg'>
